@@ -1,4 +1,4 @@
-    # 資料庫串聯
+# 資料庫串聯
     
     CREATE SERVER al_game_api_server_test
     FOREIGN DATA WRAPPER mysql
